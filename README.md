@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavediyaharsh
-- 👀 I’m interested in coding and ethical hacking
-- 🌱 I’m currently learning 12th Standard HSC Board India, Maharashtra
+- 👀 I’m interested in many techy platforms!!
+- 🌱 I’m currently persuing BTech ENTC At Bharti Vidyapeeth College of Engineering Pune, Maharashtra, India
 - 💞️ I’m looking to collaborate on Instagram, Youtube too
 - 📫 How to reach me Instagram(@kavediyaharsh), Youtube(Harsh Kavediya)
 
