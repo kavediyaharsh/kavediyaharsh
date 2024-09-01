@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kavediyaharsh
-- 👀 I’m interested in many techy platforms!!
+- 👀 I’m interested in tech platforms!!
 - 🌱 I’m currently persuing BTech ENTC At Bharti Vidyapeeth College of Engineering Pune, Maharashtra, India
 - 📫 How to reach me Instagram(@harshkavediya), LinkedIn(@kavediyaharsh), Twitter(@HarshKavediya)
 <!---
