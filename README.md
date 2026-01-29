@@ -164,7 +164,7 @@ Tech Stack: [VB.Net, Node.js, N3uron, OPCUA, WebSockets]
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kavediyaharsh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kavediyaharsh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -311,7 +311,7 @@ I'm passionate about building **secure, scalable, and intelligent systems** that
 
 ### 🌟 "Technology is best when it brings people together and solves real problems" 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/kavediyaharsh/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-kavediyaharsh&color=green)
 
 **⭐ If you find my projects interesting, feel free to star them!**
 
